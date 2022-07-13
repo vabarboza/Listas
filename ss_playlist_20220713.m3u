@@ -1,9 +1,13 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="iddocanaldeesportes" group-title="Mieruko-chan",MIERUKO-CHAN (DUBLADO) - EPISÓDIO 8
-https://lightspeedst.net/s1/mp4/mieruko-chan-dublado/hd/8.mp4
-#EXTINF:-1 tvg-id="iddocanaldeesportes" group-title="Mieruko-chan",MIERUKO-CHAN (DUBLADO) - EPISÓDIO 9
-https://lightspeedst.net/s1/mp4/mieruko-chan-dublado/hd/9.mp4
-#EXTINF:-1 tvg-id="iddocanaldeesportes" group-title="Mieruko-chan",MIERUKO-CHAN (DUBLADO) - EPISÓDIO 10
-https://lightspeedst.net/s1/mp4/mieruko-chan-dublado/sd/10.mp4
-#EXTINF:-1 tvg-id="iddocanaldeesportes" group-title="Mieruko-chan",MIERUKO-CHAN (DUBLADO) - EPISÓDIO 11
-https://lightspeedst.net/s1/mp4/mieruko-chan-dublado/sd/11.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/bd" group-title="Canais | Filmes e Séries",MegaPix FHD
+http://pfsv.io:80/6394656/5262/281
+#EXTINF:-1 tvg-logo="http://p6.vc/bd" group-title="Canais | Filmes e Séries",MegaPix FHD[H265]
+http://pfsv.io:80/6394656/5262/30218
+#EXTINF:-1 tvg-logo="http://p6.vc/bd" group-title="Canais | Filmes e Séries",Megapix HD
+http://pfsv.io:80/6394656/5262/310
+#EXTINF:-1 tvg-logo="http://p6.vc/b" group-title="Canais | Art & Music",MTV 00s HD
+http://pfsv.io:80/6394656/5262/90687
+#EXTINF:-1 tvg-logo="http://p6.vc/b" group-title="Canais | Art & Music",MTV 00s SD
+http://pfsv.io:80/6394656/5262/8
+#EXTINF:-1 tvg-logo="http://p6.vc/b" group-title="Canais | Art & Music",MTV FHD
+http://pfsv.io:80/6394656/5262/1
