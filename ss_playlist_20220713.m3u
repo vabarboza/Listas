@@ -1,21 +1,9 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="http://p6.vc/bd" group-title="Canais | Filmes e Séries",MegaPix FHD
-http://pfsv.io:80/6394656/5262/281
-#EXTINF:-1 tvg-logo="http://p6.vc/bd" group-title="Canais | Filmes e Séries",MegaPix FHD[H265]
-http://pfsv.io:80/6394656/5262/30218
-#EXTINF:-1 tvg-logo="http://p6.vc/bd" group-title="Canais | Filmes e Séries",Megapix HD
-http://pfsv.io:80/6394656/5262/310
-#EXTINF:-1 tvg-logo="http://p6.vc/b" group-title="Canais | Art & Music",MTV 00s HD
-http://pfsv.io:80/6394656/5262/90687
-#EXTINF:-1 tvg-logo="http://p6.vc/b" group-title="Canais | Art & Music",MTV 00s SD
-http://pfsv.io:80/6394656/5262/8
-#EXTINF:-1 tvg-logo="http://p6.vc/b" group-title="Canais | Art & Music",MTV FHD
-http://pfsv.io:80/6394656/5262/1
-#EXTINF:-1 tvg-logo="https://res.cloudinary.com/teepublic/image/private/s--fp7oB17q--/c_fit,g_north_west,h_291,w_840/co_0f7b47,e_outline:40/co_0f7b47,e_outline:inner_fill:1/co_ffffff,e_outline:40/co_ffffff,e_outline:inner_fill:1/co_bbbbbb,e_outline:3:1000/c_mpad,g_center,h_1260,w_1260/b_rgb:eeeeee/t_watermark_lock/c_limit,f_auto,h_630,q_90,w_630/v1630750342/production/designs/24099045_0.jpg" group-title="Mieruko-chan",MIERUKO-CHAN (DUBLADO) - EPISÓDIO 8
+#EXTINF:-1 tvg-id="iddocanaldeesportes" group-title="Mieruko-chan",MIERUKO-CHAN (DUBLADO) - EPISÓDIO 8
 https://lightspeedst.net/s1/mp4/mieruko-chan-dublado/hd/8.mp4
-#EXTINF:-1 tvg-logo="https://res.cloudinary.com/teepublic/image/private/s--fp7oB17q--/c_fit,g_north_west,h_291,w_840/co_0f7b47,e_outline:40/co_0f7b47,e_outline:inner_fill:1/co_ffffff,e_outline:40/co_ffffff,e_outline:inner_fill:1/co_bbbbbb,e_outline:3:1000/c_mpad,g_center,h_1260,w_1260/b_rgb:eeeeee/t_watermark_lock/c_limit,f_auto,h_630,q_90,w_630/v1630750342/production/designs/24099045_0.jpg" group-title="Mieruko-chan",MIERUKO-CHAN (DUBLADO) - EPISÓDIO 9
+#EXTINF:-1 tvg-id="iddocanaldeesportes" group-title="Mieruko-chan",MIERUKO-CHAN (DUBLADO) - EPISÓDIO 9
 https://lightspeedst.net/s1/mp4/mieruko-chan-dublado/hd/9.mp4
-#EXTINF:-1 tvg-logo="https://res.cloudinary.com/teepublic/image/private/s--fp7oB17q--/c_fit,g_north_west,h_291,w_840/co_0f7b47,e_outline:40/co_0f7b47,e_outline:inner_fill:1/co_ffffff,e_outline:40/co_ffffff,e_outline:inner_fill:1/co_bbbbbb,e_outline:3:1000/c_mpad,g_center,h_1260,w_1260/b_rgb:eeeeee/t_watermark_lock/c_limit,f_auto,h_630,q_90,w_630/v1630750342/production/designs/24099045_0.jpg" group-title="Mieruko-chan",MIERUKO-CHAN (DUBLADO) - EPISÓDIO 10
-https://lightspeedst.net/s1/mp4/mieruko-chan-dublado/hd/10.mp4
-#EXTINF:-1 tvg-logo="https://res.cloudinary.com/teepublic/image/private/s--fp7oB17q--/c_fit,g_north_west,h_291,w_840/co_0f7b47,e_outline:40/co_0f7b47,e_outline:inner_fill:1/co_ffffff,e_outline:40/co_ffffff,e_outline:inner_fill:1/co_bbbbbb,e_outline:3:1000/c_mpad,g_center,h_1260,w_1260/b_rgb:eeeeee/t_watermark_lock/c_limit,f_auto,h_630,q_90,w_630/v1630750342/production/designs/24099045_0.jpg" group-title="Mieruko-chan",MIERUKO-CHAN (DUBLADO) - EPISÓDIO 11
-https://lightspeedst.net/s1/mp4/mieruko-chan-dublado/hd/11.mp4
+#EXTINF:-1 tvg-id="iddocanaldeesportes" group-title="Mieruko-chan",MIERUKO-CHAN (DUBLADO) - EPISÓDIO 10
+https://lightspeedst.net/s1/mp4/mieruko-chan-dublado/sd/10.mp4
+#EXTINF:-1 tvg-id="iddocanaldeesportes" group-title="Mieruko-chan",MIERUKO-CHAN (DUBLADO) - EPISÓDIO 11
+https://lightspeedst.net/s1/mp4/mieruko-chan-dublado/sd/11.mp4
