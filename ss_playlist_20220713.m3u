@@ -1,17 +1,9 @@
-#EXTM3U url-tvg="http://grade-de-programacao.xml"
-
-############## música #################  
-#EXTINF:-1 tvg-id="iddocanaldemusica" group-title="Música" tvg-name="Nome oficial do canal de música" tvg-logo="http://logo-do-canal-de-esportes.jpg",Nome do canal de música na playlist
-http://transmissao-do-canal-de-musica.m3u8
-
-############## esportes #################
-#EXTINF:-1 tvg-id="iddocanaldeesportes" group-title="Esportes" tvg-name="Nome oficial do canal de esportes" tvg-logo="http://logo-do-canal-de-esportes.png",08
-https://lightspeedst.net/s1/mp4/mieruko-chan-dublado/sd/9.mp4
-#EXTINF:-1 tvg-id="iddocanaldeesportes" group-title="Esportes" tvg-name="Nome oficial do canal de esportes" tvg-logo="http://logo-do-canal-de-esportes.png",09
-https://lightspeedst.net/s1/mp4/mieruko-chan-dublado/sd/8.mp4
-#EXTINF:-1 tvg-id="iddocanaldeesportes" group-title="Esportes" tvg-name="Nome oficial do canal de esportes" tvg-logo="http://logo-do-canal-de-esportes.png",10
+#EXTM3U
+#EXTINF:-1 tvg-id="iddocanaldeesportes" group-title="Mieruko-chan",MIERUKO-CHAN (DUBLADO) - EPISÓDIO 8
+https://lightspeedst.net/s1/mp4/mieruko-chan-dublado/hd/8.mp4
+#EXTINF:-1 tvg-id="iddocanaldeesportes" group-title="Mieruko-chan",MIERUKO-CHAN (DUBLADO) - EPISÓDIO 9
+https://lightspeedst.net/s1/mp4/mieruko-chan-dublado/hd/9.mp4
+#EXTINF:-1 tvg-id="iddocanaldeesportes" group-title="Mieruko-chan",MIERUKO-CHAN (DUBLADO) - EPISÓDIO 10
 https://lightspeedst.net/s1/mp4/mieruko-chan-dublado/sd/10.mp4
-
-############## culinária #################
-#EXTINF:-1 tvg-id="iddocanaldeculinaria" group-title="Culinária" tvg-name="Nome oficial do canal de culinária" tvg-logo="http://logo-do-canal-de-culinaria.jpg",Nome do canal de culinária na sua playlist
-http://transmissao-do-canal-de-culinaria.ts
+#EXTINF:-1 tvg-id="iddocanaldeesportes" group-title="Mieruko-chan",MIERUKO-CHAN (DUBLADO) - EPISÓDIO 11
+https://lightspeedst.net/s1/mp4/mieruko-chan-dublado/sd/11.mp4
